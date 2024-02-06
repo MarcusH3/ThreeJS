@@ -6,7 +6,7 @@
 body,
 html {
   overflow-x: hidden;
-  font-family: "Protest Riot", regular;
+  font-family: "Protest Riot", regular, serif;
   font-size: 18px;
 }
 .webgl {
