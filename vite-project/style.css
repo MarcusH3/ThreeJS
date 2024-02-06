@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+body,
+html {
+  overflow-x: hidden;
+  font-family: "Protest Riot", regular;
+  font-size: 18px;
+}
+.webgl {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+nav {
+  color: white;
+  z-index: 2;
+  position: absolute;
+  padding: 4rem 8rem;
+  display: flex;
+  justify-content: space-between;
+  
+}
+nav ul {
+  list-style: none;
+  margin: 0; 
+  padding: 0;
+  display: flex;
+}
+nav li {
+  position: relative;
+  display: flex;
+  margin-right: 4rem;
+  font-size: 1.2rem; 
+  font-weight: bold;
+  
+}
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold; 
+
+}
+.title {
+  color: white;
+  z-index: 2;
+  position: absolute;
+  font-size: 2rem;
+  left: 50%;
+  top: 75%;
+  transform: translate(-50%, -75%);
+}
