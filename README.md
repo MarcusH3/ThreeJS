@@ -1,6 +1,5 @@
-![Screenshot 2024-02-06 at 12 29 20](https://github.com/MarcusH3/ThreeJS/assets/78554363/089b74d0-0961-4a06-aad7-cc7aadde7c8e)
-
 # Moon Sphere in Three.js
+![Screenshot 2024-02-06 at 12 29 20](https://github.com/MarcusH3/ThreeJS/assets/78554363/089b74d0-0961-4a06-aad7-cc7aadde7c8e)
 
 Creating a moon sphere using Three.js, Vite and Javascript
 
